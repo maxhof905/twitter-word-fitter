@@ -1,0 +1,6 @@
+
+Jannis' example repo: https://gitlab.uzh.ch/vamvas/ltwa-2021-example-project/
+
+URL to our website: http://172.23.115.137:50773
+Database connection: postgres://postgres:d3e8db4016b1e148da8a12e4f361be44@172.23.115.137:50840/team_f_db
+
